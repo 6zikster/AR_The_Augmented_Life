@@ -956,15 +956,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MultiImageAugmenter
   imagePrefabPairs:
-  - imageName: Flag_of_Europe
+  - imageName: askorbinka
     prefab: {fileID: 4760232168593888768, guid: 6e969390aa0254c438f6ad1963e63a57, type: 3}
-  - imageName: Flag_of_Italy
-    prefab: {fileID: 4760232168593888768, guid: c8b051cff3c834541b26d6d277066082, type: 3}
-  - imageName: Flag_of_Liguria
+  - imageName: dinner_during_the_plague
+    prefab: {fileID: 9128216400204035550, guid: c8b051cff3c834541b26d6d277066082, type: 3}
+  - imageName: god_bless_rock
     prefab: {fileID: 4760232168593888768, guid: 21fe4dac27a264097a197c3af889a25c, type: 3}
-  - imageName: Flag_of_Genoa
+  - imageName: totown
     prefab: {fileID: 4760232168593888768, guid: 4a33716ec47b545e7819a59791ceee0d, type: 3}
-  - imageName: stones
+  - imageName: paft
     prefab: {fileID: 4760232168593888768, guid: 5344d855ea3e24cdf84caab7ed14b549, type: 3}
   - imageName: Monetochka
     prefab: {fileID: 4760232168593888768, guid: 73e3075b2143c4f4fb466d736c9012a6, type: 3}

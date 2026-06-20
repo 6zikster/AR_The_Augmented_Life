@@ -21,51 +21,51 @@ MonoBehaviour:
       m_GuidLow: 5145193277306425235
       m_GuidHigh: 10007675099719937674
     m_SerializedTextureGuid:
-      m_GuidLow: 9574588169653364529
-      m_GuidHigh: 1240516641750291402
+      m_GuidLow: 6090935739252323621
+      m_GuidHigh: 8574394704288009354
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: Flag_of_Europe
+    m_Name: askorbinka
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5061889054178431092
       m_GuidHigh: 14436163284192392624
     m_SerializedTextureGuid:
-      m_GuidLow: 9530837386360247490
-      m_GuidHigh: 8240678382336022427
+      m_GuidLow: 17603854094292895297
+      m_GuidHigh: 17110123042878443050
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: Flag_of_Italy
+    m_Name: dinner_during_the_plague
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 4620165916380425315
       m_GuidHigh: 2961911690327892156
     m_SerializedTextureGuid:
-      m_GuidLow: 6085019407365427127
-      m_GuidHigh: 8438775184796111065
+      m_GuidLow: 13004029711426686494
+      m_GuidHigh: 1277130915806086459
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: Flag_of_Liguria
+    m_Name: god_bless_rock
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 4666519036532100933
       m_GuidHigh: 10384741292701592712
     m_SerializedTextureGuid:
-      m_GuidLow: 16433718327728643288
-      m_GuidHigh: 16521732542544449449
+      m_GuidLow: 17592725904934291406
+      m_GuidHigh: 12138134836912598346
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: Flag_of_Genoa
+    m_Name: totown
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 4622839382634288588
       m_GuidHigh: 4992699049075462529
     m_SerializedTextureGuid:
-      m_GuidLow: 7262081392960993429
-      m_GuidHigh: 15604203822803732713
+      m_GuidLow: 14170209240533056926
+      m_GuidHigh: 7431836184904210552
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: stones
+    m_Name: paft
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5452088185481977514
